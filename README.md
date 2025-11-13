@@ -4,7 +4,7 @@
 
 ---
 
-[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [📸 Посмотреть скриншоты](./img/Readme.md)
+[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [📸 Посмотреть скриншоты](./img/readme.md)
 
 ---
 
@@ -34,4 +34,4 @@
 
 ---
 
-[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [🖼️ Примеры интерфейса и архитектуры](./img/Readme.md)
+[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [🖼️ Примеры интерфейса и архитектуры](./img/readme.md)
